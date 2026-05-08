@@ -1,31 +1,19 @@
 {
-    "name": "backend-arraia-junino",
-    "version": "1.0.0",
-    "description": "API REST Festa Junina — Sistema de Pedidos do Arraiá 🌽🎉",
-    "main": "server.js",
-    "scripts": {
-        "start": "node server.js",
-        "dev": "nodemon server.js"
-    },
-    "keywords": [
-        "api",
-        "festa-junina",
-        "arraia",
-        "backend",
-        "express",
-        "middleware"
-    ],
-    "author": "Leticia",
-    "license": "ISC",
-    "dependencies": {
-        "@supabase/ssr": "^0.10.3",
-        "@supabase/supabase-js": "^2.105.3",
-        "cors": "^2.8.5",
-        "dotenv": "^17.3.1",
-        "express": "^4.18.2"
-    },
-    "devDependencies": {
-        "nodemon": "^3.0.1"
-    },
-    "type": "commonjs"
+  "name": "sorvete-back-certo-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.105.3",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
 }
