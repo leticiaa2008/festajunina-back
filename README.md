@@ -1,1 +1,1 @@
-# festajunina-back
+# java-sorvete-server
